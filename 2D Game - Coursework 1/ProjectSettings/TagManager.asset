@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Water
+  - Door
+  - Animation
+  - EnemyAnimation
+  - Enemy
+  - EnemyWalls
+  - EnemyVision
+  - EnemyAttack
+  - Ground
+  - HealthPotion
+  - Coin
+  - Key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - Ground
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Platforms
+    uniqueID: 3995026387
+    locked: 0
+  - name: Background
+    uniqueID: 1387204653
+    locked: 0
+  - name: Water
+    uniqueID: 1002783753
+    locked: 0
+  - name: Enemies
+    uniqueID: 4074849147
+    locked: 0
+  - name: Player
+    uniqueID: 807378741
+    locked: 0
