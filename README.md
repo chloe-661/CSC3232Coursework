@@ -1,2 +1,4 @@
 # CSC3232
-Gaming Technologies and Simulations Module - 3rd year
+Newcastle University - 2021/22 - 3rd Year
+
+	GAMING TECHNOLGIES AND SIMULATIONS MODULE
