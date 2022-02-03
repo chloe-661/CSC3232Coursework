@@ -10,7 +10,7 @@ DO NOT COPY!! - This work is shit and I got crap marks for it.
 	Coursework 1 Submitted: 12/11/2021
 	Coursework 2 Submitted: 20/12/2021
 
-I REPEAT, DO NOT COPY!!
+Marks and Feedback
 
 	COURSEWORK 1:
 	    Description: This was a 2d platform game, unfinished
