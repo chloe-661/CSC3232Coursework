@@ -12,11 +12,11 @@ DO NOT COPY!! - This work is shit and I got crap marks for it.
 
 Marks and Feedback
 
-	COURSEWORK 1:
-	    Description: This was a 2d platform game, unfinished
-	    Total marks: 32/50
-	    Feedback: 
-	    
+	COURSEWORK 1
+	
+	Description: This was a 2d platform game, unfinished
+	Marks: 32/50
+	Feedback:     
 	    A somewhat basic 2D platformer with some good ideas behind it. 
 	    
 	    There's rigid bodies with different mass values in the game, but these are somewhat limited in their ability to be integrated by the physics engine by having some direct manipulations of physics and velocity. 
@@ -33,11 +33,11 @@ Marks and Feedback
 	    
 .
 
-	COURSEWORK 2:
-	    Description: This was a 3d survival/escape game, unfinished. Instead of continuing on from Coursework 1, I started again as the project wasn't going well
-	    Total marks: 24/50
-	    Feedback: 
-	    
+	COURSEWORK 2
+	
+	Description: This was a 3d survival/escape game, unfinished. Instead of continuing on from Coursework 1, I started again as the project wasn't going well
+	Marks: 24/50
+	Feedback:
 	    The student delivered a project containing neither NavMeshAgents nor NavMeshObstacles. Still, the student managed to implement a custom pathfinding code from scratch. Still, no evidence of this being linked to the main game is given (e.g., enemies are still chasing players using AddForce methods instead of using a pathfinder): therefore, no decision could be possibly done using pathfinding, neither the outcome of such decisions could influence pathfinding.
 	    
 	    No evidence of a Flocking System was given.
