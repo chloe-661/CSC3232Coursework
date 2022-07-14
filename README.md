@@ -1,7 +1,7 @@
 # CSC3232
 Newcastle University - 2021/22 - 3rd Year
 
-DO NOT COPY!! - This work is shit and I got crap marks for it. 
+!!DO NOT COPY!! - This work is shit and I got crap marks for it. 
 
 	GAMING TECHNOLGIES AND SIMULATIONS MODULE
 	
